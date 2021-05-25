@@ -1,0 +1,7 @@
+{
+  "name": "qrjs-project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
